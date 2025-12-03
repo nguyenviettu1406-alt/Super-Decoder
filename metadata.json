@@ -1,0 +1,5 @@
+{
+  "name": "Super Decoder",
+  "description": "A modern Mastermind-style logic puzzle game. Crack the secret color code by analyzing feedback from your guesses. Features multiple difficulty levels and a sleek dark mode interface.",
+  "requestFramePermissions": []
+}
